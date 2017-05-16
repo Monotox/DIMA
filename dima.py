@@ -16,7 +16,7 @@ def Setup():
 	print "          | |  | | (_| \__ \__ \  / ____ \| | |_) | |_| | | | | | |                 "
 	print "          |_|  |_|\__,_|___/___/ /_/    \_\_|_.__/ \__,_|_| |_| |_|                 "
 	print "\n\n"
-	print "\n\n\n\nUso: python dima.py lista.txt\n"
+	print "\n\n\n\nUso: python dima.py list.txt\n"
 
 def Mod():
 	archive = open(sys.argv[1], 'r')
