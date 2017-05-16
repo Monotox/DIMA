@@ -1,6 +1,6 @@
 #!/usr/bin/env pyhon
 # -*- coding: utf-8 -*-
-import requests, sys, urllib, random, zipfile, os
+import requests, sys, urllib, random, zipfile
 
 def Setup():
 	print "\n\n"
