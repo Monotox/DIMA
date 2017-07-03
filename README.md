@@ -4,7 +4,7 @@
 
 >Script desenvolvido em Python que garante o download, acompanhado da descompactação de todos os arquivos definidos.
  *  Python Version      2.7
- *  Permissão           Leitura & Rscrita
+ *  Permissão           Leitura & Escrita
 
 
 Modo de uso:  
